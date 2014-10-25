@@ -27,6 +27,9 @@ Copier manuellement les ficiers dans votre dossier
 
 
 Compatible et teste avec Prestashop 1.6.x
+<br><br>
+contact : contact.obysky@gmail.com
+<br>
 </div>
 </body>
 </html>
