@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Adressesgeoloc</name>
+	<displayName><![CDATA[Adresses G&eacute;olocalis&eacute;s]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[G&eacute;olocalisez vos clients et donnez leurs la possibilit&eacute; de remplir automatiquement leur champ adresses.]]></description>
+	<author><![CDATA[ObYsKy]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[Are you sure for removing All Informations of module ???]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
